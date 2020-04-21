@@ -1,7 +1,7 @@
 # python_gradient_descent
 Gradient descent using Python
 
-Demonstration of deriving PCA, Autoencoder, and Factorization, and how they all arrive at similar matrices. 
+Simple Python demonstration of deriving PCA, Autoencoder, and Factorization. Also shows how they result in similar matrices when reduced to the same dimnensions.
 
 Section 1:
 Derives the first 10 principal components
